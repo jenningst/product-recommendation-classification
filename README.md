@@ -5,7 +5,7 @@
   Photo by <a href="https://unsplash.com/@burgessbadass?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Burgess Milner</a> on <a href="https://unsplash.com/s/photos/womens-clothing?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 </p>
 
-# Classifying Product Recommendations on Women's e-Commerce Data
+# Classifying Product Recommendations from Women's e-Commerce Reviews
 Consumers have more options than ever when it comes to purchasing products online. Companies like Amazon provide endless optionality for any product and have innovated logistics to the point where same-day delivery to the consumer is possible. Furthermore, companies like Stripe and Shopify have made it increasingly easy for companies to take their brand online, promising the potential to reach customers anywhere. With the drive to take the consumer shopping process online, an exponential amount of data is being generated — click-through data to track the actions of consumers leading up to a purchase, historical purchase behavior data, and consumer product review data are just a few examples of data-mining opportunities in e-commerce. This increase in the availability and volume of customer data presents increased opportunities for businesses to optimize their processes and drive additional profits and growth.
 
 # Motivation
